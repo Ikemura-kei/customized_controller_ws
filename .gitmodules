@@ -1,0 +1,3 @@
+[submodule "src/aruco_cube_detector"]
+	path = src/aruco_cube_detector
+	url = git@github.com:Ikemura-kei/aruco_cube_detector.git
